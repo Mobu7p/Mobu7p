@@ -43,6 +43,6 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/tobias-carpintieri-8471a7333/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tobiascarpintieri/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 </div>
